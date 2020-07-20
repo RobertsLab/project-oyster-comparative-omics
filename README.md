@@ -1,3 +1,3 @@
-# project-cv-cg-trans-meth
+# project-oyster-comparative-omics
 
-Project exploring methylation and transcriptomic responses to ocean acidification in *Crassostrea virginica* and *Crassostrea gigas*
+Project exploring and comparing methylation and transcriptomic responses to ocean acidification in *Crassostrea virginica* and *Crassostrea gigas*
